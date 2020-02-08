@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.779
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ChinookDB", "ChinookDB\ChinookDB.sqlproj", "{3416DFF1-26D0-49B4-965F-CCB4A9CC5404}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chinook.MVC", "Chinook.MVC\Chinook.MVC.csproj", "{DA6A9523-AE60-4BC4-A2DE-6F22523DF77B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{3416DFF1-26D0-49B4-965F-CCB4A9CC5404}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3416DFF1-26D0-49B4-965F-CCB4A9CC5404}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3416DFF1-26D0-49B4-965F-CCB4A9CC5404}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{DA6A9523-AE60-4BC4-A2DE-6F22523DF77B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA6A9523-AE60-4BC4-A2DE-6F22523DF77B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA6A9523-AE60-4BC4-A2DE-6F22523DF77B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA6A9523-AE60-4BC4-A2DE-6F22523DF77B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
